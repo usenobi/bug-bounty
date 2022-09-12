@@ -13,7 +13,6 @@ The following requirements must be adhered to in order to participate in NOBI's 
 ## Scope
 The following domains are in the scope of the bug bounty program:
 - usenobi.com and it subdomains
-- honestmining.com and it subdomains
 - Android : https://play.google.com/store/apps/details?id=com.usenobi
 - iOS : https://apps.apple.com/id/app/nobi-smart-crypto-investment/id1510269362
 

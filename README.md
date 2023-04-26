@@ -6,7 +6,8 @@ The following requirements must be adhered to in order to participate in NOBI's 
 - In the event of duplicate reports, we award a bounty to the first person to submit an issue. (Capacity determines duplicates and may not share details on the other reports.) A given bounty is only paid to one individual.
 - Your participation in this program must not disrupt or compromise any data that does not belong to you. Any attacks against other users or company data without provable express consent are prohibited and will automatically disqualify you from participating in the program.
 - You must not disclose the issue to the public or a third-party before it has been fixed and prior written consent from NOBI.
-- You must comply with any applicable laws and regulations in connection with your participation in this program. 
+- You must comply with any applicable laws and regulations in connection with your participation in this program.
+- Decisions from NOBI's internal parties regarding the findings are final and cannot be disturbed
 - NOBI's employees and all other affiliates are not eligible for rewards.
 
 

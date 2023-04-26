@@ -50,6 +50,7 @@ Non-Qualifying Vulnerabilities:
 - SSL/TLS scan reports (this means output from sites such as SSL Labs)
 - Banner grabbing issues (figuring out what web server we use, etc.)
 - Comma Separated Values (CSV) injection without demonstrating a vulnerability
+- Directory Traversal Issue with low impact
 - Vulnerabilities related to auto-fill web forms
 - Vulnerabilities in second party or third party applications or platforms
 - Vulnerabilities only exploitable on out-of-date browsers or platforms

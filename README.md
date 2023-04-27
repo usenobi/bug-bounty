@@ -1,4 +1,4 @@
-## Rules
+## Rules.
 The following requirements must be adhered to in order to participate in NOBI's bounty program :
 - We investigate and respond to all valid reports. Due to the volume of reports we receive, though, we prioritise evaluations based on risk and other factors, and it may take some time before you receive a reply.
 - We determine bounty amounts based on a variety of factors, including (but not limited to) impact, ease of exploitation, and quality of the report. Note that extremely low-risk issues may not qualify for a bounty at all.

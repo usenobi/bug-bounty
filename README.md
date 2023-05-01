@@ -38,6 +38,11 @@ Any design or implementation issue that substantially affects the confidentialit
 ```
 
 ## Out of Scope
+
+- usenobi.com/learn/
+- usenobi.com/blog/
+- honestmining.com
+
 Non-Qualifying Vulnerabilities:
 ```
 - Any sort of DoS/DDoS attacks are strictly prohibited
@@ -82,6 +87,35 @@ Non-Qualifying Vulnerabilities - Mobile Apps:
 - Snapshot/Pasteboard leakage
 - Runtime hacking exploits (exploits only possible in a jailbroken/rooted environment)
 ```
+
+## Codes Of Conduct
+NOBI wants to create a safe business environment and uphold professionalism ethics. For this reason, there are three main aspects that need to be considered by every security researcher who participates in the program on our platform:
+
+- CONFIDENTIALITY : All reported security vulnerabilities may not be leaked to the public.
+- INTEGRITY : Only reports security issues that are considered valid and do not use the findings of the security vulnerability for destructive purposes. If there are more than 1 report on the same security issue, the first to report that will be considered valid.
+- PROFESSIONALISM : Security researchers are fully responsible for the reported findings and must be contacted if explanatory or complementary information is needed.
+
+## Rewards (UPDATE May/2/2023)
+
+- NOBI's bounty program considers a number of variables in determining rewards (ie: difficulty of execution, report quality, business impacts).
+- You are solely responsible for any applicable taxes arising from or relating to your participation in the bug bounty program.
+- Decisions from NOBI's internal parties regarding the findings are final and cannot be disturbed.
+- NOBI will also issue certificate of recognition to distinguished individuals.
+```
+P1 (Critical)       Point 100 : Rp
+P2 (High)           Point 50  : Rp
+P3 (Medium)         Point 25  : Rp
+P4 (Low)            Point 10  : Rp 0
+P5 (Informational)  Point 5   : Rp 0
+
+Certificates :
+P1 Maroon Frame
+P2 Light Red Frame
+P3 Orange Frame
+P4 Green Frame
+P5 Light Blue Frame 
+```
+
 ## Submission
 Though we welcome reporting of non-security issues, please note that only genuine security issues are eligible for rewards. If you have found a vulnerability, we would love to work with you to resolve it:
 

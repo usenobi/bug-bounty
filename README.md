@@ -121,6 +121,9 @@ Though we welcome reporting of non-security issues, please note that only genuin
 
 - Please email us at security[et]usenobi.com with the subject “[Bug Bounty NOBI] - Vulnerability Name”. Please do not contact employees directly or through other channels about a report.
 - Within the body of the email, please describe the nature of the bug along with any steps required to replicate it, vulnerable component (API, FQDN, Deep URL), as well as pertinent applications, programs or tools used to discover the bug and the date and time testing took place.
+- Providing a complete POC video or screenshot will really help us to analyze more deeply regarding your findings
+- Provide your risk calculations related to the findings that you find using the OWASP Risk Calculator or CVSS and it would be even better if you include MITRE ATT&CK ID's
+- Provide us with ways and references to fix your findings
 - Include your legal name, phone number, and IP address at time of testing with your submission.
 
 Please feel free to reach out to us at security[et]usenobi.com with any questions regarding the bug bounty program. We receive a lot of submissions through this program, so we may not be able to reply to your email promptly, but we'll respond as soon as possible. We look forward to hearing from you.

@@ -128,6 +128,7 @@ Though we welcome reporting of non-security issues, please note that only genuin
 - Include your legal name, phone number, and IP address at time of testing with your submission.
 ```
 Reporting Format:
+
 - Vulnerability Name
 - Risk (OWASP Calculator or CVSS)
 - Vulnerability Explanation

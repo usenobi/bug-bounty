@@ -109,7 +109,6 @@ P4 (Low)            Point 10  : Rp 0
 P5 (Informational)  Point 5   : Rp 0
 
 Certificates :
-
 P1 - Maroon Frame
 P2 - Light Red Frame
 P3 - Orange Frame
@@ -127,13 +126,14 @@ Though we welcome reporting of non-security issues, please note that only genuin
 - Provide OWASP Top 10 Category and it would be even better if you include MITRE ATT&CK ID's
 - Provide us with ways and references to fix your findings
 - Include your legal name, phone number, and IP address at time of testing with your submission.
-```
-Reporting Format:
 
+## Submission Format
+Introduce yourself with legal name , phone number and IP address at time of testing with your submission then fill theese details :
+```
 - Vulnerability Name
 - Risk (OWASP Calculator or CVSS)
 - Vulnerability Explanation
-- Vulnerabilitiy Impact
+- Vulnerability Impact
 - How To Fix The Vulnerability
 - OWASP TOP 10 Category
 - POC

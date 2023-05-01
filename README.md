@@ -109,11 +109,11 @@ P4 (Low)            Point 10  : Rp 0
 P5 (Informational)  Point 5   : Rp 0
 
 Certificates :
-P1 Maroon Frame
-P2 Light Red Frame
-P3 Orange Frame
-P4 Green Frame
-P5 Light Blue Frame 
+P1 - Maroon Frame
+P2 - Light Red Frame
+P3 - Orange Frame
+P4 - Green Frame
+P5 - Light Blue Frame 
 ```
 
 ## Submission

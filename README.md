@@ -116,7 +116,7 @@ P4 - Green Frame
 P5 - Light Blue Frame 
 ```
 
-## Submission
+## Submission (UPDATE 02/05/2023)
 Though we welcome reporting of non-security issues, please note that only genuine security issues are eligible for rewards. If you have found a vulnerability, we would love to work with you to resolve it:
 
 - Please email us at security[et]usenobi.com with the subject “[Bug Bounty NOBI] - Vulnerability Name”. Please do not contact employees directly or through other channels about a report.
@@ -127,7 +127,7 @@ Though we welcome reporting of non-security issues, please note that only genuin
 - Provide us with ways and references to fix your findings
 - Include your legal name, phone number, and IP address at time of testing with your submission.
 
-## Submission Format
+## Submission Format (UPDATE 02/05/2023)
 Introduce yourself with legal name , phone number and IP address at time of testing with your submission then fill theese details :
 ```
 - Vulnerability Name

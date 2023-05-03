@@ -99,20 +99,12 @@ NOBI wants to create a safe business environment and uphold professionalism ethi
 - NOBI's bounty program considers a number of variables in determining rewards (ie: difficulty of execution, report quality, business impacts).
 - You are solely responsible for any applicable taxes arising from or relating to your participation in the bug bounty program.
 - Decisions from NOBI's internal parties regarding the findings are final and cannot be disturbed.
-- NOBI will also issue certificate of recognition to distinguished individuals.
 ```
-P1 (Critical)       Point 100 : Rp
-P2 (High)           Point 50  : Rp
-P3 (Medium)         Point 25  : Rp
-P4 (Low)            Point 10  : Rp 0
-P5 (Informational)  Point 5   : Rp 0
-
-Certificates :
-P1 - Maroon Frame
-P2 - Light Red Frame
-P3 - Orange Frame
-P4 - Green Frame
-P5 - Light Blue Frame 
+P1 (Critical)      
+P2 (High)          
+P3 (Medium)        
+P4 (Low)           
+P5 (Informational)  
 ```
 
 ## Submission (UPDATE 02/05/2023)
@@ -121,7 +113,6 @@ Though we welcome reporting of non-security issues, please note that only genuin
 - Please email us at security[et]usenobi.com with the subject “[Bug Bounty NOBI] - Vulnerability Name”. Please do not contact employees directly or through other channels about a report.
 - Within the body of the email, please describe the nature of the bug along with any steps required to replicate it, vulnerable component (API, FQDN, Deep URL), as well as pertinent applications, programs or tools used to discover the bug and the date and time testing took place.
 - Providing a complete POC video or screenshot will really help us to analyze more deeply regarding your findings.
-- Provide your risk calculations related to the findings that you find using the OWASP Risk Calculator or CVSS. 
 - Provide OWASP Top 10 Category and it would be even better if you include MITRE ATT&CK ID's.
 - Provide us with ways and references to fix your findings because we really value your opinion.
 - Include your legal name, phone number, and IP address at time of testing with your submission.
@@ -130,7 +121,6 @@ Though we welcome reporting of non-security issues, please note that only genuin
 Introduce yourself with legal name , phone number and IP address at time of testing with your submission then fill theese details :
 ```
 - Vulnerability Name
-- Risk (OWASP Calculator or CVSS)
 - Vulnerability Explanation
 - Vulnerability Impact
 - How To Fix The Vulnerability

@@ -41,7 +41,6 @@ Any design or implementation issue that substantially affects the confidentialit
 
 - usenobi.com/learn/
 - usenobi.com/blog/
-- honestmining.com
 
 Non-Qualifying Vulnerabilities:
 ```

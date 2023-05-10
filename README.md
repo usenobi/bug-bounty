@@ -94,7 +94,7 @@ NOBI wants to create a safe business environment and uphold professionalism ethi
 - INTEGRITY : Only reports security issues that are considered valid and do not use the findings of the security vulnerability for destructive purposes. If there are more than 1 report on the same security issue, the first to report that will be considered valid.
 - PROFESSIONALISM : Security researchers are fully responsible for the reported findings and must be contacted if explanatory or complementary information is needed.
 
-## Rewards (UPDATE 02/05/2023)
+## Rewards
 
 - NOBI's bounty program considers a number of variables in determining rewards (ie: difficulty of execution, report quality, business impacts).
 - You are solely responsible for any applicable taxes arising from or relating to your participation in the bug bounty program.

@@ -1,7 +1,7 @@
-## Rules
+## Rules.
 The following requirements must be adhered to in order to participate in NOBI's bounty program :
 - We investigate and respond to all valid reports. Due to the volume of reports we receive, though, we prioritise evaluations based on risk and other factors, and it may take some time before you receive a reply.
-- We determine bounty amounts based on a variety of factors, including (but not limited to) impact, ease of exploitation, and quality of the report. Note that extremely low-risk issues may not qualify for a bounty at all.
+- We determine bounty amounts based on a variety of factors, including (but not limited to) impact, ease of exploitation, and quality of the report. Note that low-risk issues may not qualify for a bounty at all.
 - We seek to pay similar amounts for similar issues, but bounty amounts and qualifying issues may change with time. Past rewards do not necessarily guarantee similar results in the future.
 - In the event of duplicate reports, we award a bounty to the first person to submit an issue. (Capacity determines duplicates and may not share details on the other reports.) A given bounty is only paid to one individual.
 - Your participation in this program must not disrupt or compromise any data that does not belong to you. Any attacks against other users or company data without provable express consent are prohibited and will automatically disqualify you from participating in the program.
@@ -38,6 +38,10 @@ Any design or implementation issue that substantially affects the confidentialit
 ```
 
 ## Out of Scope
+
+- usenobi.com/learn/
+- usenobi.com/blog/
+
 Non-Qualifying Vulnerabilities:
 ```
 - Any sort of DoS/DDoS attacks are strictly prohibited
@@ -82,11 +86,45 @@ Non-Qualifying Vulnerabilities - Mobile Apps:
 - Snapshot/Pasteboard leakage
 - Runtime hacking exploits (exploits only possible in a jailbroken/rooted environment)
 ```
-## Submission
+
+## Codes Of Conduct
+NOBI wants to create a safe business environment and uphold professionalism ethics. For this reason, there are three main aspects that need to be considered by every security researcher who participates in the program on our platform:
+
+- CONFIDENTIALITY : All reported security vulnerabilities may not be leaked to the public.
+- INTEGRITY : Only reports security issues that are considered valid and do not use the findings of the security vulnerability for destructive purposes. If there are more than 1 report on the same security issue, the first to report that will be considered valid.
+- PROFESSIONALISM : Security researchers are fully responsible for the reported findings and must be contacted if explanatory or complementary information is needed.
+
+## Rewards
+
+- NOBI's bounty program considers a number of variables in determining rewards (ie: difficulty of execution, report quality, business impacts).
+- You are solely responsible for any applicable taxes arising from or relating to your participation in the bug bounty program.
+- Decisions from NOBI's internal parties regarding the findings are final and cannot be disturbed.
+```
+P1 (Critical)      
+P2 (High)          
+P3 (Medium)        
+P4 (Low)           
+P5 (Informational)  
+```
+
+## Submission 
 Though we welcome reporting of non-security issues, please note that only genuine security issues are eligible for rewards. If you have found a vulnerability, we would love to work with you to resolve it:
 
 - Please email us at security[et]usenobi.com with the subject “[Bug Bounty NOBI] - Vulnerability Name”. Please do not contact employees directly or through other channels about a report.
 - Within the body of the email, please describe the nature of the bug along with any steps required to replicate it, vulnerable component (API, FQDN, Deep URL), as well as pertinent applications, programs or tools used to discover the bug and the date and time testing took place.
+- Providing a complete POC video or screenshot will really help us to analyze more deeply regarding your findings.
+- Provide OWASP Top 10 Category and it would be even better if you include MITRE ATT&CK ID's.
+- Provide us with ways and references to fix your findings because we really value your opinion.
 - Include your legal name, phone number, and IP address at time of testing with your submission.
 
+## Submission Format 
+Introduce yourself with legal name , phone number and IP address at time of testing with your submission then fill theese details :
+```
+- Vulnerability Name
+- Vulnerability Explanation
+- Vulnerability Impact
+- How To Fix The Vulnerability
+- OWASP TOP 10 Category
+- POC
+```
 Please feel free to reach out to us at security[et]usenobi.com with any questions regarding the bug bounty program. We receive a lot of submissions through this program, so we may not be able to reply to your email promptly, but we'll respond as soon as possible. We look forward to hearing from you.

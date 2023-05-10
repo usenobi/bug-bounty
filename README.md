@@ -1,7 +1,7 @@
 ## Rules.
 The following requirements must be adhered to in order to participate in NOBI's bounty program :
 - We investigate and respond to all valid reports. Due to the volume of reports we receive, though, we prioritise evaluations based on risk and other factors, and it may take some time before you receive a reply.
-- We determine bounty amounts based on a variety of factors, including (but not limited to) impact, ease of exploitation, and quality of the report. Note that extremely low-risk issues may not qualify for a bounty at all.
+- We determine bounty amounts based on a variety of factors, including (but not limited to) impact, ease of exploitation, and quality of the report. Note that low-risk issues may not qualify for a bounty at all.
 - We seek to pay similar amounts for similar issues, but bounty amounts and qualifying issues may change with time. Past rewards do not necessarily guarantee similar results in the future.
 - In the event of duplicate reports, we award a bounty to the first person to submit an issue. (Capacity determines duplicates and may not share details on the other reports.) A given bounty is only paid to one individual.
 - Your participation in this program must not disrupt or compromise any data that does not belong to you. Any attacks against other users or company data without provable express consent are prohibited and will automatically disqualify you from participating in the program.
@@ -107,7 +107,7 @@ P4 (Low)
 P5 (Informational)  
 ```
 
-## Submission (UPDATE 02/05/2023)
+## Submission 
 Though we welcome reporting of non-security issues, please note that only genuine security issues are eligible for rewards. If you have found a vulnerability, we would love to work with you to resolve it:
 
 - Please email us at security[et]usenobi.com with the subject “[Bug Bounty NOBI] - Vulnerability Name”. Please do not contact employees directly or through other channels about a report.
@@ -117,7 +117,7 @@ Though we welcome reporting of non-security issues, please note that only genuin
 - Provide us with ways and references to fix your findings because we really value your opinion.
 - Include your legal name, phone number, and IP address at time of testing with your submission.
 
-## Submission Format (UPDATE 02/05/2023)
+## Submission Format 
 Introduce yourself with legal name , phone number and IP address at time of testing with your submission then fill theese details :
 ```
 - Vulnerability Name
